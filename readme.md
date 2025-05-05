@@ -172,9 +172,10 @@ Suporte para C++: [https://www.learncpp.com/](https://www.learncpp.com/)
 > _"Problem solving is a lifestyle"._
 
 1. Facebook: [https://www.facebook.com/AngolaCPC](https://www.facebook.com/AngolaCPC)
-2. GitHub: [https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024](https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024)
-3. WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
-4. Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
-5. YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
+2. LinkedIn: [https://www.linkedin.com/company/aocpc-community](https://www.linkedin.com/company/aocpc-community)
+3. GitHub: [https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024](https://github.com/AOCP-Community/AOCPC_TRAINING_CAMP_2024)
+4. WhatsApp: [https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J](https://chat.whatsapp.com/Dlr8483llslCeqYZUgx30J)
+5. Telegram: [https://t.me/+rN4SZheQgiw2Yjk0](https://t.me/+rN4SZheQgiw2Yjk0)
+6. YouTube: [https://www.youtube.com/@aocpc_community](https://www.youtube.com/@aocpc_community)
 
 [Back to the top](#contents)
