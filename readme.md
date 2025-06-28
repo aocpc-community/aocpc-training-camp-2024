@@ -1,7 +1,7 @@
 # AOCPC TRAINING CAMP 2024 - ARCHIVE
 
 ## ⚠️ ATUALIZAÇÃO:
-> ‼️‼️ ☠️ ‼️‼️ <strong>Agora disponível em: <a href="https://aocpc-community.github.io/aocpc-guide/">https://aocpc-community.github.io/aocpc-guide/</a></strong>
+> <strong>Agora disponível em: <a href="https://aocpc-community.github.io/aocpc-guide/">https://aocpc-community.github.io/aocpc-guide/</a></strong>
 
 
 Treinamento anual de programação competitiva para os participantes do AoCPC, organizado pela AoCPC Community, num período de aproximandamente 30 dias.
