@@ -1,6 +1,6 @@
 # AOCPC TRAINING CAMP 2024 - ARCHIVE
 
-## ⚠️ ATUALIZAÇÃO:
+## ⚠️ ACTUALIZAÇÃO:
 > <strong>Agora disponível em: <a href="https://aocpc-community.github.io/aocpc-guide/">https://aocpc-community.github.io/aocpc-guide/</a></strong>
 
 
